@@ -1,0 +1,22 @@
+{
+  "name": "iOSViews",
+  "version": "0.1.0",
+  "summary": "A short description of iOSViews.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ajaygidwani25@gmail.com/iOSViews",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ajaygidwani25@gmail.com": "ajaygidwani25@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/ajaygidwani25@gmail.com/iOSViews.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "iOSViews/Classes/**/*"
+}
